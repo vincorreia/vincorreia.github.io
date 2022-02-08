@@ -125,7 +125,7 @@ lord-icon{
 .btn-outline-custom{
   color: #F76E11 !important;
   border: 1px solid #F76E11 !important;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .btn-outline-custom:hover{
@@ -135,7 +135,7 @@ lord-icon{
 
 .btn-custom{
   color: white !important;
-  border-radius: 10px;
+  border-radius: 5px;
   background-color: #FF9F45 !important;
 }
 

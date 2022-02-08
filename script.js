@@ -6,13 +6,13 @@ var projects = [
   image: "https://i.imgur.com/txl4Ds5.png" },
 
 {
-  project: "survey",
+  project: "survey-form",
   alt: "Survey Page",
   description: "A survey form about X made with HTML and CSS",
   image: "https://i.imgur.com/XVdI3lN.png" },
 
 {
-  project: "tribute",
+  project: "tribute-page",
   alt: "Tribute Page",
   description: "A tribute page to Michael Jackson",
   image: "https://i.imgur.com/Rp6vtsm.png" },
@@ -55,7 +55,7 @@ for (let i = 0; i < projects.length; i++) {
   projectFigCaptionTag.appendChild(projectDescription);
 
   const projectButton = document.createElement("a");
-  projectButton.setAttribute("href", "#");
+  projectButton.setAttribute("href", "/" + project);
   projectButton.setAttribute("target", "_blank");
   projectButton.className = "btn btn-outline-light btn-small project-btn";
   projectButton.innerHTML = `<span>Visit Website</span>
