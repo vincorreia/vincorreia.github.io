@@ -462,7 +462,7 @@ label{
   padding-right: 2.25rem;
 }
 h1{
-  font-size: 2.5vw;
+  font-size: 3rem;
 }
 nav a:hover{
   text-decoration:none;
@@ -575,9 +575,6 @@ section{
   }
   #projects{
   padding-top: 25%;
-}
-  h1{
-    font-size: 1.5vw;
   }
   .project-image{
     width: 20rem;
