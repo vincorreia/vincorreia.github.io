@@ -12,12 +12,6 @@ var projects = [
   image: "https://i.imgur.com/XVdI3lN.png" },
 
 {
-  project: "tribute-page",
-  alt: "Tribute Page",
-  description: "A tribute page to Michael Jackson",
-  image: "https://i.imgur.com/Rp6vtsm.png" },
-
-{
   project: "whitepaper",
   alt: "Whitepaper",
   description: "HTML whitepaper, describing how to use some of the HTML markups.",
