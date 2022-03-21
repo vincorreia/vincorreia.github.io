@@ -1,5 +1,5 @@
 # Personal Portfolio
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/vinnicius-correia/pen/MWENRyR](https://codepen.io/vinnicius-correia/pen/MWENRyR).
+This is my Personal Portfolio, where I share some of my most noticeable works. I hope you can take a couple of minutes to see it!
 
 
