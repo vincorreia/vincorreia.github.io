@@ -12,12 +12,6 @@ var projects = [
   image: "https://i.imgur.com/XVdI3lN.png" },
 
 {
-  project: "whitepaper",
-  alt: "Whitepaper",
-  description: "HTML whitepaper, describing how to use some of the HTML markups.",
-  image: "https://i.imgur.com/GiwoGqg.png" },
-
-{
   project: "product-landing-page",
   alt: "Product Landing Page",
   description: "A product landing page for X product",
