@@ -191,6 +191,7 @@ lord-icon{
 .profile-photo{
   border-radius: 50%;
   height: auto;
+  width: 200px;
   position: relative;
   top: 140px;
 }
