@@ -20,6 +20,7 @@ var projects = [
 
 
 /* For loop to create projects */
+/*
 for (let i = 0; i < projects.length; i++) {
 
   const { project, alt, description, image } = projects[i];
@@ -62,7 +63,7 @@ for (let i = 0; i < projects.length; i++) {
   projectsContainer.appendChild(projectTile);
 }
 
-
+*/
 
 function createForm(inputList, formDeliveryDiv) {
 
