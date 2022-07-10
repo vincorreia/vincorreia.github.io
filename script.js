@@ -4,7 +4,7 @@ var projects = [
   alt: "MyCryptoPortfolio.io",
   description: "A cryptocurrency portfolio website where you can track your assets in real-time.",
   image: "https://i.imgur.com/txl4Ds5.png",
-  projectLink: "mycryptoportfolioio.herokuapp.com/"
+  projectLink: "https://mycryptoportfolioio.herokuapp.com/"
 },
 
 {
@@ -12,7 +12,7 @@ var projects = [
   alt: "Snake Game",
   description: "Snake game played very much on Nokia in 1976. Made with React, JS, CSS and HTML",
   image: "https://i.imgur.com/nN84RVF.png",
-  projectLink: "vincorreia-snake-game.herokuapp.com"
+  projectLink: "https://vincorreia-snake-game.herokuapp.com"
 },
   {
     project: "pokemon-RESTful-api-challenge",
