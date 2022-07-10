@@ -222,7 +222,7 @@ lord-icon{
 }
 .project-image{
   max-width: 33rem;
-  height: auto;
+  height: 15rem;
   border-radius: 20px;
   box-shadow: 0 5px 25px -5px rgba(0, 0, 0, 0.6);
   transition-property: all;
