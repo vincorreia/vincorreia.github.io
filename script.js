@@ -29,7 +29,7 @@ var projects = [
 
 for (let i = 0; i < projects.length; i++) {
 
-  const { project, alt, description, image } = projects[i];
+  const { project, alt, description, image, projectLink } = projects[i];
 
   const projectsContainer = document.getElementById("projects-container");
 
