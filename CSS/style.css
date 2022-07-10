@@ -221,7 +221,7 @@ lord-icon{
   margin-bottom: 0 !important;
 }
 .project-image{
-  max-width: 33rem;
+  width: 33rem;
   height: 18.6rem;
   border-radius: 20px;
   box-shadow: 0 5px 25px -5px rgba(0, 0, 0, 0.6);
