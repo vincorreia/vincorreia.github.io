@@ -11,14 +11,14 @@ var projects = [
   project: "snake-game",
   alt: "Snake Game",
   description: "Snake game played very much on Nokia in 1976. Made with React, JS, CSS and HTML",
-  image: "https://i.imgur.com/XVdI3lN.png",
+  image: "https://i.imgur.com/nN84RVF.png",
   projectLink: "vincorreia-snake-game.herokuapp.com"
 },
   {
     project: "pokemon-RESTful-api-challenge",
     alt: "Pokemon RESTful API consumption",
     description: "SPA made with HTML, CSS and JS. App pulls data from https://www.pokeapi.co",
-    image: "",
+    image: "https://i.imgur.com/AwdLsCY.jpg",
     projectLink: "https://afternoon-caverns-87776.herokuapp.com"
   }
 ];
