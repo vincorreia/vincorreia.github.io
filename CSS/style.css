@@ -153,7 +153,8 @@ lord-icon{
 }
 .contact-btn{
   border-radius: 50% !important;
-  padding: 1rem;
+  width: 4rem;
+  height: 4rem;
   border: 0;
   outline: none !important;
   margin-left: 5%;
@@ -332,7 +333,6 @@ lord-icon{
   width: 10rem;
   height: 3rem;
   border-radius: 25px !important;
-  box-shadow: 0 5px 25px -5px rgba(0, 0, 0, 0.6);
 }
 
 .input:focus ~ .placeholder,
