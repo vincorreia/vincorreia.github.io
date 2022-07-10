@@ -3,24 +3,30 @@ var projects = [
   project: "mycryptoportfolio.io",
   alt: "MyCryptoPortfolio.io",
   description: "A cryptocurrency portfolio website where you can track your assets in real-time.",
-  image: "https://i.imgur.com/txl4Ds5.png" },
+  image: "https://i.imgur.com/txl4Ds5.png",
+  projectLink: "mycryptoportfolioio.herokuapp.com/"
+},
 
 {
-  project: "survey-form",
-  alt: "Survey Page",
-  description: "A survey form about X made with HTML and CSS",
-  image: "https://i.imgur.com/XVdI3lN.png" },
-
-{
-  project: "product-landing-page",
-  alt: "Product Landing Page",
-  description: "A product landing page for X product",
-  image: "https://i.imgur.com/O3tQkcS.png" }];
+  project: "snake-game",
+  alt: "Snake Game",
+  description: "Snake game played very much on Nokia in 1976. Made with React, JS, CSS and HTML",
+  image: "https://i.imgur.com/XVdI3lN.png",
+  projectLink: "vincorreia-snake-game.herokuapp.com"
+},
+  {
+    project: "pokemon-RESTful-api-challenge",
+    alt: "Pokemon RESTful API consumption",
+    description: "SPA made with HTML, CSS and JS. App pulls data from https://www.pokeapi.co",
+    image: "",
+    projectLink: "https://afternoon-caverns-87776.herokuapp.com"
+  }
+];
 
 
 
 /* For loop to create projects */
-/*
+
 for (let i = 0; i < projects.length; i++) {
 
   const { project, alt, description, image } = projects[i];
@@ -44,7 +50,7 @@ for (let i = 0; i < projects.length; i++) {
   projectFigCaptionTag.appendChild(projectDescription);
 
   const projectButton = document.createElement("a");
-  projectButton.setAttribute("href", "/" + project);
+  projectButton.setAttribute("href", projectLink);
   projectButton.setAttribute("target", "_blank");
   projectButton.className = "btn btn-outline-light btn-small project-btn";
   projectButton.innerHTML = `<span>Visit Website</span>
@@ -62,8 +68,6 @@ for (let i = 0; i < projects.length; i++) {
   projectTile.appendChild(projectFigCaptionTag);
   projectsContainer.appendChild(projectTile);
 }
-
-*/
 
 function createForm(inputList, formDeliveryDiv) {
 
